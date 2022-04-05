@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/whenes/workspaces/codeeducation_schoolofnet/java/jsf/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1958563652.index
+1943902799.index
+2676235414.index
+2093003632.index
+4117470426.index
+449934458.index
